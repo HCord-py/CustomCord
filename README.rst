@@ -11,7 +11,7 @@ HCord
    :target: https://pypi.python.org/pypi/customcord
    :alt: PyPI supported Python versions
 
-A python discord client with aiohttp that makes you create a bot with discord standard methods. (Library will be published on pypi in some days)
+A python discord client with aiohttp that makes you create a bot with discord standard methods. (Library will be published on pypi soon)
 
 
 Links
